@@ -1,0 +1,17 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+README.md
+.env
+.nyc_output
+coverage
+.nyc_output
+.coverage
+.eslintrc.js
+tsconfig.json
+jest.config.js
+*.test.ts
+*.spec.ts
+.DS_Store
+Thumbs.db
